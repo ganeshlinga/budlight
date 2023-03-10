@@ -10,7 +10,6 @@
     </parent>
     <groupId>com.example</groupId>
     <artifactId>budlight</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
     <name>budlight</name>
     <description>budlight</description>
     <properties>
