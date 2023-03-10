@@ -11,7 +11,6 @@ import javax.annotation.Resource;
 @RestController
 public class BudlightApplication {
 
-
     @GetMapping("/Welcome")
     public String Welcome() {
         return "Hello how are you";
